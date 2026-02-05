@@ -11,10 +11,12 @@ const Footer = () => {
           </div>
           <div>
             <a
-              href="https://storeops-frontend.vercel.app/"
+              href="https://creative-kurta.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-md block"
             >
-              Sample website
+              Demo store
             </a>
             <a
               href="https://storeops-admin.vercel.app/docs"
