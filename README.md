@@ -126,8 +126,9 @@ For more detailed information about the StoreOps project and its API, please vis
 
 ## Store Front End Setup Guide
 
+**Store frontend repository:** [storeops-store-frontend](https://github.com/niranjangirhe/storeops-store-frontend)
+
 Follow these steps to set up the StoreOps store frontend example project on your local machine:
-[link](https://github.com/niranjangirhe/storeops-store-frontend) to frontend project github repo
 
 1. Clone the repository:
 
